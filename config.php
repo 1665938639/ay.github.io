@@ -1,10 +1,10 @@
 <?php
 //数据库信息
-$host = '127.0.0.1'; //数据库地址
+$host = '118.123.236.55'; //数据库地址
 $port = 3306; //端口
-$user = 'aiyundl'; //用户名
-$pwd = 'aiyundl'; //密码
-$dbname = 'aiyundl'; //库名称
+$user = 'aydl'; //用户名
+$pwd = 'aydl'; //密码
+$dbname = 'aydl'; //库名称
 
 //检测域名是否报毒
 //0：关闭检测
